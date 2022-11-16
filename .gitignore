@@ -1,1 +1,7 @@
 carlib-env
+
+*.log
+*.pot
+*.pyc
+__pycache__
+
